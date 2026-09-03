@@ -4,6 +4,9 @@ This repository contains my notes, code, exercises, and projects created while s
 
 The goal of this repository is to document my learning journey, experiment with AI-assisted development, and keep all of my course-related work organized in one place.
 
+## 🛠️ Courses
+1. [Practical Prompt Engineering](01_practical_prompt_engineering/README.md)
+
 ## 📚 Contents
 
 * **Notes** — Key concepts, lessons, and takeaways from the course
@@ -20,13 +23,6 @@ Through this course and repository, I aim to:
 * Understand the strengths and limitations of AI-assisted programming
 * Experiment with different AI-powered development techniques
 * Build practical projects while documenting what I learn
-
-## 🛠️ Course
-
-**Course:** Coding with AI
-**Platform:** Frontend Masters
-
-🔗 [View the course on Frontend Masters](https://master.dev/learn/ai/)
 
 <!-- ## 📁 Repository Structure
 
