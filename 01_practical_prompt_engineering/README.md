@@ -9,3 +9,5 @@ These are my notes to [Practical Prompt Engineering](https://master.dev/courses/
 5. [Context Placement](05_context_placement.md)
 6. [Structured Output](06_structured_output.md)
 7. [Chain Of Thought](07_chain_of_thought.md)
+8. [Delimiters](08_delimiters.md)
+9. [Personas](09_personas.md)
