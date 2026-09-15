@@ -6,6 +6,7 @@ The goal of this repository is to document my learning journey, experiment with 
 
 ## 🛠️ Courses
 1. [Practical Prompt Engineering](01_practical_prompt_engineering/README.md)
+2. [AI Agents Fundamentals](02_ai_agents_fundamentals/README.md)
 
 ## 📚 Contents
 
